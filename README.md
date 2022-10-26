@@ -7,7 +7,7 @@
   <b>Discipline | <b> Electrical Engineering 
 :--|:--|
 <b> Lab | <b> **Analog Signals, Network and Measurement Laboratory Virtual Lab**
-<b> Experiment|     <b> R-L-C Circuit Analysis and Experiment 7**
+<b> Experiment|     <b> ** R-L-C Circuit Analysis and Experiment 7**
 
 
 <b>Name of Developer | <b> **Prof. Alok Kanti Deb**
